@@ -22,3 +22,9 @@ C:\Users\SumanthKumar.ShettyC\Documents\Practice Project\MTC Project\MTC Project
 C:\Users\SumanthKumar.ShettyC\Documents\Practice Project\MTC Project\MTC Project\obj\Debug\netcoreapp3.1\MTC Project.dll
 C:\Users\SumanthKumar.ShettyC\Documents\Practice Project\MTC Project\MTC Project\obj\Debug\netcoreapp3.1\MTC Project.pdb
 C:\Users\SumanthKumar.ShettyC\Documents\Practice Project\MTC Project\MTC Project\obj\Debug\netcoreapp3.1\MTC Project.genruntimeconfig.cache
+C:\Users\SumanthKumar.ShettyC\Documents\Practice Project\MTC Project\MTC Project\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\SumanthKumar.ShettyC\Documents\Practice Project\MTC Project\MTC Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\SumanthKumar.ShettyC\Documents\Practice Project\MTC Project\MTC Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\SumanthKumar.ShettyC\Documents\Practice Project\MTC Project\MTC Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\SumanthKumar.ShettyC\Documents\Practice Project\MTC Project\MTC Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SumanthKumar.ShettyC\Documents\Practice Project\MTC Project\MTC Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
